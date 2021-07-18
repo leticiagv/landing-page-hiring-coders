@@ -13,4 +13,4 @@ Segundo passo foi implementar o site em HTML, CSS e JavaScript.
 
 Por fim, adicionar o projeto finalizado ao GitHub.
 
-![Site finalizado]((https://github.com/leticiagv/landing-page-hiring-coders/blob/main/assets/projetofinalizado.png)
+![Site finalizado](https://github.com/leticiagv/landing-page-hiring-coders/blob/main/assets/projetofinalizado.png)
