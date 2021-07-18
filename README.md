@@ -5,3 +5,4 @@ Criar uma Landing Page utilizando HTML, CSS e JavaScript no estilo e-commerce na
 
 ## Etapas:
 O primeiro passo foi construir um planejamento do site finalizado. 
+![Planejamento do Site](https://github.com/leticiagv/landing-page-hiring-coders/blob/main/assets/planejamento.png)
