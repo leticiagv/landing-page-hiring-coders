@@ -253,3 +253,98 @@ footer {
     cursor: pointer;
 }
 
+@media only screen and (max-width: 800px){
+
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+a.logo img{
+    width: 8rem;
+}
+
+header{
+    height: 6.4rem;
+    padding: 1rem;
+    font-size: 1.4rem;
+
+}
+
+header a {
+    padding: .3rem;
+}
+
+a.nav.nav {
+    border-radius: .5rem;
+
+}
+
+.promo img{
+    width: 35rem;
+}
+
+
+.container{
+    height: 18rem;
+    padding-left: 2rem;
+    font-size: 1rem;
+}
+
+.container img{
+    width: 17rem;
+}
+
+
+.container_subs{
+    height: 18rem;
+}
+
+.substext {
+    font-size: 1.5rem;
+    padding: .5rem;
+
+}
+
+.subs_name, .subs_email{
+    font-size: 1.5rem;
+    width: 90%;
+    margin: .5rem;
+}
+
+form {
+    padding: .5rem;
+}
+
+
+
+.inputname, .inputemail {
+    font-size: 1rem;
+    width: 90%;
+    margin: .5rem;
+}
+
+.subscribe {
+    font-size: 2rem;
+}
+    
+    
+
+
+.products {
+    padding: .8rem;
+    flex-direction: column;
+   
+}
+
+button .sale {
+    padding: 1.5rem;   
+    font-size: 2rem;
+}
+
+.products img {
+    width: 15rem;
+    padding: .1rem;
+}
+}
+
